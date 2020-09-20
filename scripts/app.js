@@ -92,7 +92,7 @@ console.log(rainbow[4]); */
 
 /* 3. Crazy Object! */
 
-const crazyObject = {
+/* const crazyObject = {
   taco: [
     {
       meat: 'steak',
@@ -122,18 +122,47 @@ const crazyObject = {
       },
     ]
   }
-}
+} */
 
 
 /* Use crazyObject to log the following. */
 
 /*   * "omg my mouth is burning" */
-  console.log(crazyObject.taco[1].salsa[5]);
+ /*  console.log(crazyObject.taco[1].salsa[5]); */
 /*   * "Pretty pretty prettayyyyy good" */
-  console.log(crazyObject.larry.quotes[0]);
+/*   console.log(crazyObject.larry.quotes[0]); */
 /*   * "Swearing at Larry and Jeff" */
-  console.log(crazyObject.larry.characters[2].favourtieHobby);
+/*   console.log(crazyObject.larry.characters[2].favourtieHobby); */
 /*   * "Chicken Teriyaki Boyyyyyy" */
-  console.log(crazyObject.larry.nicknames[1]);
+/*   console.log(crazyObject.larry.nicknames[1]); */
  /*  * The object the contains the name `funkhauser` */
- console.log(crazyObject.larry.characters)
+/*  console.log(crazyObject.larry.characters) */
+
+/*  4. Object-ception */
+
+/* With the following object: */
+
+
+/* const inception = {
+   reality: {
+       dreamLayer1: {
+           dreamLayer2: {
+               dreamLayer3: {
+                   dreamLayer4: {
+                       dreamLayer5: {
+                           dreamLayer6: {
+                               limbo: "Joseph Gordon Levitt"
+                          }
+                       }
+                   }
+               }
+           }
+       }
+   }
+}
+ */
+
+/* Change the value of `limbo` to `null`. */
+/* inception.reality.dreamLayer1.dreamLayer2.dreamLayer3.dreamLayer4.dreamLayer5.dreamLayer6.limbo = null;
+console.log(inception.reality.dreamLayer1.dreamLayer2.dreamLayer3.dreamLayer4.dreamLayer5.dreamLayer6.limbo); */
+
