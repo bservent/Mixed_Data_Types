@@ -66,4 +66,27 @@ var classNameLocation = [['thing1','oaxaca city'], ['thing2', 'beverly hills'], 
 
   let person1 = new Person ('Britt', 'Seattle','The Departed, Gladiator, Constant Gardener') */
 
+/* 2. Take it Easy */
+
+/* 1. Make an array that holds all of the colors of the rainbow. */
+
+/* let rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+
+console.log(rainbow[4]); */
+
+/* 2. Write code that will access "blue" from the rainbow array.
+
+3. Make an object that is called your name and holds the information about your favorite food, a hobby, the name of the town that you live in currently, and your favorite datatype. */
+
+/* let person = {
+    name: 'Britt',
+    favoriteFood: 'Pizza',
+    hobby: 'Circus',
+    city: 'Seattle',
+    favoriteDatatype:'Objects'
+}; */
+
+/* 4. Write code that will access your hobby from the object that you just created. */
+
+/*  console.log(person.hobby); */
 
